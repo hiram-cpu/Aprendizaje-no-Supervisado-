@@ -58,7 +58,7 @@ El proyecto fue desarrollado en Python utilizando libretas de Jupyter, apoyándo
     ```bash
     jupyter notebook
     ```
-4.  Ejecuta el archivo `Avance Proyecto parte 3.ipynb`. *(Asegúrate de tener el archivo `Online Retail.xlsx` en la ruta especificada dentro del código o actualiza la ruta según tu sistema).*
+4.  Ejecuta el archivo `Aprendizaje no Supervisado.ipynb`. *(Asegúrate de tener el archivo `Online Retail.xlsx` en la ruta especificada dentro del código o actualiza la ruta según tu sistema).*
 
 ---
 **Autor:** Hiram Cruz
