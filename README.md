@@ -48,7 +48,7 @@ El proyecto fue desarrollado en Python utilizando libretas de Jupyter, apoyándo
 
 1.  Descarga el archivo necesario 'Online Retail':
     ```bash
-    git clone [https://drive.google.com/drive/folders/1zt40x4ltXP8hcZ-Ispjkeb3NCmQquz_b?usp=sharing)
+    Archivo [https://drive.google.com/drive/folders/1zt40x4ltXP8hcZ-Ispjkeb3NCmQquz_b?usp=sharing)
     ```
 2.  Instala las dependencias necesarias:
     ```bash
